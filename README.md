@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🧐 I'm a user of: Python, R, SQL, javascript, Illustrator, After Effects, QGIS.
 
-🎹 Fun fact about me: I was classically trained in Piano for more than ten years. Being in New York, I really miss having a piano around the house! I hope to one day have my own piano where I can practice Chopin Waltz anytime I want.
+🎹 Fun fact about me: I spent over a decade studying classical piano. While living in New York, I miss having a piano nearby to play. My dream is to someday own my own piano so that I can practice Chopin Waltzes anytime I want.
 
 📩 You can reach me on:
 
