@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔅 My name is June Kim. I'm a data journalist with a passion for covering climate change and the environment. I'm currently a Master's student of Data Journalism at Columbia Journalism School.
+🔅 I'm a data journalist who's passionate about environmental issues and climate change. I'm currently pursuing my Master's degree in Data Journalism at Columbia Journalism School.
 
-💻 A multimedia producer turned data journalist, I love making compelling data-driven graphics that draw readers' attention. See my [scrollytelling project about lithium-ion batteries](https://junekim6.github.io/lithium-lifecycle/) and [hand-drawn data visualizations about heat pumps](https://columbianewsservice.com/2023/05/02/heat-pumps-are-the-hottest-thing-in-sustainable-energy-but-new-york-lags-behind-the-trend/).
+💻 A multimedia producer turned data reporter, I love making compelling data-driven graphics that draw readers' attention. See my [scrollytelling project about lithium-ion batteries](https://junekim6.github.io/lithium-lifecycle/) and [hand-drawn data visualizations about heat pumps](https://columbianewsservice.com/2023/05/02/heat-pumps-are-the-hottest-thing-in-sustainable-energy-but-new-york-lags-behind-the-trend/).
 
 🧐 I'm a user of: Python, R, SQL, javascript, Illustrator, After Effects, QGIS.
 
