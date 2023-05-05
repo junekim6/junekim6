@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💻 A multimedia producer turned data journalist, I love making compelling data-driven graphics that draw readers' attention. See my [scrollytelling project about lithium-ion batteries](https://junekim6.github.io/lithium-lifecycle/) and [hand-drawn data visualizations about heat pumps](https://columbianewsservice.com/2023/05/02/heat-pumps-are-the-hottest-thing-in-sustainable-energy-but-new-york-lags-behind-the-trend/).
 
-🧐 I'm a user of... Python, R, SQL, javascript, Illustrator, After Effects, QGIS.
+🧐 I'm a user of: Python, R, SQL, javascript, Illustrator, After Effects, QGIS.
 
 🎹 Fun fact about me: I was classically trained in Piano for more than ten years. Being in New York, I really miss having a piano around the house! I hope to one day have my own piano where I can practice Chopin Waltz anytime I want.
 
